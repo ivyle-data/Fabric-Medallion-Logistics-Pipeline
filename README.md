@@ -98,7 +98,7 @@ Fabric-Medallion-Logistics-Pipeline/
 │   └── NB_Silver_to_Gold.ipynb
 │
 ├── PowerBI/
-│   └── Logistics_Performance_Dashboard.pbix
+│   └── PowerBI_Dashboard_Data_Visibility.pdf
 │
 └── README.md
 ```
