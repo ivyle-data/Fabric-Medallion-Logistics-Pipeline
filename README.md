@@ -57,8 +57,7 @@ External access cannot be granted.
 
 ### 4.2. Data Quality & EDA Insights
 
-Detailed preprocessing logic is provided in:  
-`docs/03_Data_Preparation_and_EDA_Insights.pdf`
+Detailed preprocessing logic is provided in: docs/03_Data_Preparation_and_EDA_Insights.pdf
 ---
 
 ## 5. Business Analytics & Deliverables
